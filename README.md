@@ -16,13 +16,15 @@ I have led frontend teams, set technical direction, and worked alongside product
 
 **[Bridgy](https://github.com/monis01/bridgy)**: a lightweight TypeScript library for secure parent and iframe communication across origins, with a handshake, origin whitelisting, and message queueing. Available on npm as `@monis01/iframe-bridge`.
 
-## Skills
+## Toolkit
 
-- **Frontend:** Angular, React, Next.js, TypeScript, RxJS, Signals
-- **Real-time and data:** WebSockets, Server-Sent Events, AG Grid, HTML5 Canvas, ECharts
-- **Security and auth:** Keycloak, JWT, access control
-- **AI and quality:** Claude, MCP, multi-agent orchestration, Playwright, Jest
-- **Leadership:** architecture and system design, code reviews, mentoring, roadmap planning
+- **Frontend architecture:** Angular, React, Next.js, TypeScript, RxJS
+- **Real-time systems:** WebSockets, Server-Sent Events, Protobuf
+- **Data visualisation:** HTML5 Canvas, AG Grid, ECharts
+- **Identity and security:** Keycloak, JWT
+- **AI engineering:** Claude, MCP, multi-agent orchestration
+- **Testing and delivery:** Playwright, Jest, GitHub Actions, AWS
+- **Leadership:** system design, code reviews, mentoring, roadmap planning
 
 ## Get in touch
 

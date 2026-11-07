@@ -22,7 +22,7 @@ I have led frontend teams, set technical direction, and worked alongside product
 - **Real-time systems:** WebSockets, Server-Sent Events, Protobuf
 - **Data visualisation:** HTML5 Canvas, AG Grid, ECharts
 - **Identity and security:** Keycloak, JWT
-- **AI engineering:** Claude, MCP, multi-agent orchestration
+- **AI engineering:** multi-agent orchestration, cost-based model routing, verification agents, MCP, Claude, Cursor, ChatGPT
 - **Testing and delivery:** Playwright, Jest, GitHub Actions, AWS
 - **Leadership:** system design, code reviews, mentoring, roadmap planning
 
